@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.title-color {
+    color: blue;
+    font-size: 50px;
+}
+
+.paragraph {
+    font-size: 40px;
+    white-space: calc();
+}
+
+.image {
+    position: relative;
+    width: 80%;
+}
+
+.img img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(255, 71, 71));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.image .title {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    /* transform: translate(-50%, -0%); */
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+
+.donate {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.help {
+    font-size: 20px;
+}
+
+section {
+    margin-bottom: 80px;
+}
+
+/* footer h1 {
+    text-align: center;
+} */
