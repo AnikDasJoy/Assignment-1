@@ -42,16 +42,11 @@ body {
     width: 100%;
 }
 
-
 .donate {
     color: black;
     text-align: center;
     font-size: 40px;
 }
-
-/* .amount {
-    font-size: 20px;
-} */
 
 .flexible-container {
     display: flex;
@@ -165,4 +160,14 @@ footer {
     text-align: center;
     background-color: black;
     padding: 1%;
+}
+
+.flexi-container {
+    font-size: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 3%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
 }
