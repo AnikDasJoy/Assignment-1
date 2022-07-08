@@ -129,21 +129,40 @@ body {
     box-shadow: 10px 10px 40px gray;
 }
 
-/* .half-width {
-    padding-right: 50px;
+.contributes {
+    display: flex;
+    margin-top: 15%;
+    margin-left: 100px;
+    margin-right: 70px;
+}
 
-    text-decoration: none;
-    background-image: linear-gradient(red, rgb(255, 71, 71));
-    padding: 10px 40px;
-    font-weight: 700;
-    border-radius: 10px;
+.contribute {
+    text-align: left;
+}
 
-} */
+#image {
+    margin-left: 13%;
+    margin-bottom: 5%;
+    margin-right: 3%;
+}
 
-/* section {
-    margin-bottom: 80px;
-} */
+#font {
+    font-size: 30px;
+}
 
-/* footer h1 {
+.update {
+    color: black;
     text-align: center;
-} */
+    font-size: 40px;
+}
+
+.updates {
+    text-align: center;
+}
+
+footer {
+    color: red;
+    text-align: center;
+    background-color: black;
+    padding: 1%;
+}
