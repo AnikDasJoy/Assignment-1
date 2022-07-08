@@ -78,6 +78,57 @@ body {
     padding-right: 40px;
 }
 
+.planning {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.money {
+    font-size: 20px;
+    text-align: left;
+}
+
+.help {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 5%;
+}
+
+.blood-medicine-goods {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#blood {
+    background-color: aquamarine;
+}
+
+#medicine {
+    background-color: bisque
+}
+
+#goods {
+    background-color: antiquewhite
+}
+
+.donation {
+    display: flex;
+    font-size: 15px;
+    text-align: center;
+}
+
+.help {
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 1%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
 /* .half-width {
     padding-right: 50px;
 
